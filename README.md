@@ -10,7 +10,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=worldroot&label=Profile%20views&color=0e75b6&style=plastic" alt="GhassenBoughzala" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=worldroot&theme=algolia" alt="GhassenBoughzala"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GhassenBoughzala&theme=algolia" alt="GhassenBoughzala"  /></p>
 
 
 ## 🛠️ My Skills
