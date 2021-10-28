@@ -53,11 +53,11 @@
   </a>
    &emsp;
   <a href="https://fr.reactjs.org/" target="_blank"> 
-    <img alt="ReactJs" src="https://img.shields.io/badge/React-%61DAFB.svg?style=flat&logo=react&logoColor=white"/>
+    <img alt="ReactJs" src="https://img.shields.io/badge/React-%231572B6.svg?style=flat&logo=react&logoColor=white"/>
   </a>
    &emsp;
   <a href="https://angular.io/" target="_blank"> 
-    <img alt="AngularJs" src="https://img.shields.io/badge/Angular-%DD0031.svg?style=flat&logo=angular&logoColor=white"/>
+    <img alt="AngularJs" src="https://img.shields.io/badge/Angular-%23E34F26.svg?style=flat&logo=angular&logoColor=white"/>
   </a>
 </p>
 
