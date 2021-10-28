@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center"> I'm Ghassen Boughzala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
@@ -30,6 +29,10 @@
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
+  &emsp;
+  <a href="https://www.php.net/">
+    <img alt="NodeJs" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  </a>
 
 
 </p>
@@ -48,6 +51,14 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
+   &emsp;
+  <a href="https://fr.reactjs.org/" target="_blank"> 
+    <img alt="ReactJs" src="https://img.shields.io/badge/React-%23563D7C.svg?style=flat&logo=react&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="https://angular.io/" target="_blank"> 
+    <img alt="AngularJs" src="https://img.shields.io/badge/Angular-%23563D7C.svg?style=flat&logo=angular&logoColor=white"/>
+  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -59,7 +70,7 @@
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
-    <a href=""><img alt="MongoDB" src ="https://img.shields.io/badge/Mongodb-%23316192.svg?logo=mongodb&logoColor=white"></a>
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/Mongodb-%23316192.svg?logo=mongodb&logoColor=white"></a>
  </p>
   
 
