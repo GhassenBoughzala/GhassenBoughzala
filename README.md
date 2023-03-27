@@ -30,31 +30,27 @@
 ### 👉 Frameworks and Libraries
 <p align="left">  
    &emsp;
-  <a href="https://fr.reactjs.org/" target="_blank"> 
+  <a href="https://fr.reactjs.org/"> 
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   </a>
 &emsp;
-  <a href="" target="_blank"> 
+  <a href=""> 
     <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
   </a>
    &emsp;
-  <a href="https://angular.io/" target="_blank"> 
+  <a href="https://angular.io/"> 
     <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   </a>
-	   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  </a>
 &emsp;
-  <a href="" target="_blank"> 
+  <a href=""> 
     <img alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   </a>
 	   &emsp;
-  <a href="" target="_blank"> 
+  <a href=""> 
     <img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   </a>
 	   &emsp;
-  <a href="" target="_blank"> 
+  <a href=""> 
     <img alt="SpringBoot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   </a>
 </p>
