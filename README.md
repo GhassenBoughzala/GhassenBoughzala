@@ -1,11 +1,4 @@
 
-<h1 align="center">Hello, I'm Ghassen Boughzala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GhassenBoughzala&label=Profile%20views&color=0e75b6&style=plastic" alt="GhassenBoughzala" /> </p>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GhassenBoughzala&theme=algolia" alt="GhassenBoughzala"  /></p>
-
 
 ## 🛠️ Skills
 
@@ -78,13 +71,14 @@
   &emsp;
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
  </p>
-  
 
-<br/>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GhassenBoughzala&theme=algolia" alt="GhassenBoughzala"  /></p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=GhassenBoughzala&label=Profile%20views&color=0e75b6&style=plastic" alt="GhassenBoughzala" /> </p>
+ 
 
 ## 📊 Github Stats (Expand to View) 
-
-
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
@@ -97,16 +91,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/GhassenBoughzala"><img alt="GhassenBoughzala's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GhassenBoughzala&custom_title=Ghassen%20Boughzala's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
 <!--
