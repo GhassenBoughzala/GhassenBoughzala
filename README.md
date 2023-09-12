@@ -68,7 +68,7 @@
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
  </p>
 
-
+<!--
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GhassenBoughzala&theme=algolia" alt="GhassenBoughzala"  /></p>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=GhassenBoughzala&label=Profile%20views&color=0e75b6&style=plastic" alt="GhassenBoughzala" /> </p>
@@ -89,7 +89,7 @@
 </details>
 <br/>
 
-<!--
+
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="mailto:boughzala.ghassen@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
