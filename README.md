@@ -51,8 +51,8 @@
     	<a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
     	<a href=""><img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"></a>
     	<a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-	<a href=""><img alt="Postgres" src ="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)"></a>
- </p>
+	<a href=""><img alt="Postgres" src ="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+</p>
 
 <!--
 ## 🔥 Streak Stats
